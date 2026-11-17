@@ -35,8 +35,8 @@
         {
           "id": "9303fb3d-3b0f-431f-8571-5a3d9e69b766",
           "kind": "image",
-          "x": 80,
-          "y": 80,
+          "x": 5.000002235174179,
+          "y": 86.89233103715333,
           "w": 400,
           "h": 340,
           "text": "",
@@ -48,11 +48,23 @@
         {
           "id": "c0bf0e83-2562-4ae0-9188-980491f330cb",
           "kind": "box",
-          "x": 598.9010989010989,
-          "y": 117.94943337912093,
+          "x": 532.2344342212535,
+          "y": 101.28276720915949,
           "w": 150,
           "h": 70,
           "text": "Story Board",
+          "owner": "",
+          "due": "",
+          "description": ""
+        },
+        {
+          "id": "36220edf-45c5-44b7-9e18-8c29363c7f00",
+          "kind": "box",
+          "x": 611.1110201726374,
+          "y": 293.6632704636477,
+          "w": 150,
+          "h": 70,
+          "text": "What we will do",
           "owner": "",
           "due": "",
           "description": ""
@@ -62,12 +74,16 @@
         {
           "from": "9303fb3d-3b0f-431f-8571-5a3d9e69b766",
           "to": "c0bf0e83-2562-4ae0-9188-980491f330cb"
+        },
+        {
+          "from": "c0bf0e83-2562-4ae0-9188-980491f330cb",
+          "to": "36220edf-45c5-44b7-9e18-8c29363c7f00"
         }
       ],
       "strokes": []
     },
     "huddle": {
-      "stage": 1,
+      "stage": 2,
       "returned": true,
       "goal": "",
       "personal": "",
@@ -75,11 +91,11 @@
     },
     "evidence": {},
     "dailyDraft": {
-      "meeting": "",
-      "worked": "",
-      "next": "",
-      "blocker": "",
-      "evidence": ""
+      "meeting": "CS110-2026-11-17",
+      "worked": "I did story Board the project so that we choose the requirements that fit our project.",
+      "next": "I will give task to the team and start creating the actual game",
+      "blocker": "I need more time to work on the project",
+      "evidence": "https://github.com/jonathan0611p/Final"
     },
     "requirements": [
       {
@@ -150,7 +166,17 @@
       }
     ],
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "I did story Board the project so that we choose the requirements that fit our project.",
+        "next": "I will give task to the team and start creating the actual game",
+        "blocker": "I need more time to work on the project",
+        "evidence": "https://github.com/jonathan0611p/Final",
+        "tasks": []
+      }
+    ]
   },
   "team": {
     "name": "Hello World",
