@@ -1,5 +1,6 @@
 {
   "schema": "final-road-work-v1",
+  "payloadVersion": 2,
   "course": "CS110",
   "name": "Jonathan Pacheco Urias",
   "work": {
@@ -14,6 +15,7 @@
       "quick-card"
     ],
     "engine": "Unity / C#",
+    "environmentTest": true,
     "gitEvidence": "I allowed the Courses.addp2p website to access my Github and give a back up every 5 minutes. I opened github to make sure that I was able to pull and merge the request and commits.",
     "ai": "Chat gpt, Gemini",
     "aiVerify": "I will ask another AI tool to check the output and double check the with other internet sources.",
@@ -21,6 +23,7 @@
     "plan": "",
     "availability": "Classroom, Discord and message\n2026-11-19 12:45–22:00 Pacific",
     "service": "",
+    "supportMode": "team",
     "role": "Leader",
     "board": {
       "nodes": [],
@@ -35,7 +38,82 @@
       "questions": ""
     },
     "evidence": {},
+    "dailyDraft": {
+      "meeting": "",
+      "worked": "",
+      "next": "",
+      "blocker": "",
+      "evidence": ""
+    },
+    "requirements": [
+      {
+        "id": "core",
+        "code": "R01",
+        "title": "Working project foundation",
+        "evidence": "Working source and build (60); authored program logic (35); meaningful tests (20); run guide and evidence map (20); individual explanation (15)."
+      },
+      {
+        "id": "save",
+        "code": "R02",
+        "title": "Save and restore progress",
+        "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
+      },
+      {
+        "id": "project-mark",
+        "code": "R26",
+        "title": "Project logo or title treatment",
+        "evidence": "Design a project-specific logo or title mark. Include the editable source, a clean export, one in-context use and a short explanation. Use a separate artifact from the T-shirt graphic."
+      },
+      {
+        "id": "tshirt",
+        "code": "R24",
+        "title": "Project T-shirt design + mockup",
+        "evidence": "Create an original graphic connected to your project in Canva or another design tool. Submit the editable source or export, a readable PNG and a shirt mockup, plus a short design explanation. No purchase or paid account is required."
+      },
+      {
+        "id": "ai-promo",
+        "code": "R25",
+        "title": "AI-assisted promotional illustration",
+        "evidence": "Create a project-specific concept or promotional render. Save the tool name, prompt, selected output, your revisions and credits. Label concept artwork clearly; it is not evidence of working gameplay."
+      },
+      {
+        "id": "quick-card",
+        "code": "R27",
+        "title": "Illustrated player or user quick start",
+        "evidence": "Create a one-page illustrated controls or getting-started card for your actual project. Include the source/export and document one person trying its instructions. This is distinct from the required run guide."
+      }
+    ],
     "tasks": [],
     "dailyNotes": []
-  }
+  },
+  "team": {
+    "name": "Hello World",
+    "mode": "team",
+    "project": "Hello World",
+    "projectRepo": "",
+    "members": [
+      {
+        "name": "Jonathan Pacheco Urias",
+        "role": "Leader"
+      },
+      {
+        "name": "Paul Duarte",
+        "role": "Test Runner"
+      },
+      {
+        "name": "Mio Bal",
+        "role": "Creating assets"
+      },
+      {
+        "name": "isaias gonzalez",
+        "role": "Building structures"
+      }
+    ]
+  },
+  "sharedPlan": {
+    "goal": "",
+    "plan": "",
+    "tasks": []
+  },
+  "completedReports": []
 }
