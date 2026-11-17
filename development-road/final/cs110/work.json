@@ -6,7 +6,10 @@
     "project": "A story worth playing",
     "path": "story",
     "selected": [
-      "save"
+      "save",
+      "project-mark",
+      "tshirt",
+      "ai-promo"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "I allowed the Courses.addp2p website to access my Github and give a back up every 5 minutes. I opened github to make sure that I was able to pull and merge the request and commits.",
