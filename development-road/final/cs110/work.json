@@ -167,31 +167,29 @@
     ],
     "tasks": [
       {
-        "id": "node-c0bf0e83-2562-4ae0-9188-980491f330cb",
-        "title": "Story Board",
+        "id": "a788a7ed-906a-49c7-b717-73736423702f",
+        "title": "Create the back story of the game",
         "owner": "Jonathan Pacheco Urias",
-        "due": "",
+        "due": "2026-11-22T13:18",
         "done": false,
         "result": "",
-        "description": "",
-        "nodeId": "c0bf0e83-2562-4ae0-9188-980491f330cb",
+        "description": "The game must have a backstory and the story must make sense",
+        "nodeId": "",
         "dependsOn": []
       },
       {
-        "id": "node-36220edf-45c5-44b7-9e18-8c29363c7f00",
-        "title": "What we will do",
+        "id": "312e2461-e4bb-4954-af31-1da84b641540",
+        "title": "Create a github to see how the game runs",
         "owner": "Paul Duarte",
         "due": "",
         "done": false,
         "result": "",
-        "description": "",
-        "nodeId": "36220edf-45c5-44b7-9e18-8c29363c7f00",
-        "dependsOn": [
-          "node-c0bf0e83-2562-4ae0-9188-980491f330cb"
-        ]
+        "description": "A shared github must be made and tested",
+        "nodeId": "",
+        "dependsOn": []
       },
       {
-        "id": "58b27e9b-af90-44dc-b274-408e4eac3c92",
+        "id": "1e08bfb2-3c06-46ad-869e-53ab1d61a0ad",
         "title": "",
         "owner": "isaias gonzalez",
         "due": "",
@@ -202,7 +200,7 @@
         "dependsOn": []
       },
       {
-        "id": "52a175db-5c6e-40eb-b473-205ff72fa66f",
+        "id": "97c92647-4d83-4c11-aef1-07d57ad6c8b8",
         "title": "",
         "owner": "Mio B",
         "due": "",
@@ -213,7 +211,7 @@
         "dependsOn": []
       },
       {
-        "id": "12f30b97-9fec-4461-a932-dc01c65adc25",
+        "id": "367a27ad-4259-4e80-870a-e03c5d575251",
         "title": "",
         "owner": "Daniel Parma (2)",
         "due": "",
