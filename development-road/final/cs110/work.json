@@ -92,9 +92,9 @@
     "evidence": {},
     "dailyDraft": {
       "meeting": "CS110-2026-11-19",
-      "worked": "I started working on the unity project and getting the start screen up",
-      "next": "",
-      "blocker": "",
+      "worked": "I started working on the unity project and getting the start screen up, I added the button and main title screen",
+      "next": "I will finish the main screen and move on",
+      "blocker": "I need to learn how to navigate Unity better",
       "evidence": ""
     },
     "requirements": [
@@ -233,6 +233,22 @@
         "blocker": "I need more time to work on the project",
         "evidence": "https://github.com/jonathan0611p/Final",
         "tasks": []
+      },
+      {
+        "date": "2026-11-19",
+        "revision": 1,
+        "worked": "I started working on the unity project and getting the start screen up, I added the button and main title screen",
+        "next": "I will finish the main screen and move on",
+        "blocker": "I need to learn how to navigate Unity better",
+        "evidence": "",
+        "tasks": [
+          {
+            "title": "Create the back story of the game",
+            "due": "2026-11-22T13:18",
+            "done": false,
+            "result": ""
+          }
+        ]
       }
     ]
   },
