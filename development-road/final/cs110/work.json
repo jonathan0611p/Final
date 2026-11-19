@@ -25,7 +25,7 @@
     "ai": "Chat gpt, Gemini",
     "aiVerify": "I will ask another AI tool to check the output and double check the with other internet sources.",
     "notes": "I will bring my organization and leadership skills to the team,",
-    "plan": "",
+    "plan": "We choose a 2D game in Unity that will have a story and at least three levels that connect to the story",
     "availability": "Classroom, Discord and message\n2026-11-19 12:45–22:00 Pacific",
     "service": "",
     "supportMode": "team",
@@ -85,8 +85,8 @@
     "huddle": {
       "stage": 2,
       "returned": true,
-      "goal": "We will produce",
-      "personal": "",
+      "goal": "We will produce a three level game that can me used in a mobile setting",
+      "personal": "In my role I will make sure that we are on task and",
       "questions": ""
     },
     "evidence": {},
@@ -191,10 +191,6 @@
       {
         "name": "Paul Duarte",
         "role": "Test Runner"
-      },
-      {
-        "name": "Mio Bal",
-        "role": "Creating assets"
       },
       {
         "name": "isaias gonzalez",
