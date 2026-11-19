@@ -86,8 +86,8 @@
       "stage": 2,
       "returned": true,
       "goal": "We will produce a three level game that can me used in a mobile setting",
-      "personal": "In my role I will make sure that we are on task and",
-      "questions": ""
+      "personal": "In my role I will make sure that we are on task and that we start the project",
+      "questions": "none for now"
     },
     "evidence": {},
     "dailyDraft": {
@@ -165,7 +165,65 @@
         "evidence": "Design a project-specific logo or title mark. Include the editable source, a clean export, one in-context use and a short explanation. Use a separate artifact from the T-shirt graphic."
       }
     ],
-    "tasks": [],
+    "tasks": [
+      {
+        "id": "node-c0bf0e83-2562-4ae0-9188-980491f330cb",
+        "title": "Story Board",
+        "owner": "Jonathan Pacheco Urias",
+        "due": "",
+        "done": false,
+        "result": "",
+        "description": "",
+        "nodeId": "c0bf0e83-2562-4ae0-9188-980491f330cb",
+        "dependsOn": []
+      },
+      {
+        "id": "node-36220edf-45c5-44b7-9e18-8c29363c7f00",
+        "title": "What we will do",
+        "owner": "Paul Duarte",
+        "due": "",
+        "done": false,
+        "result": "",
+        "description": "",
+        "nodeId": "36220edf-45c5-44b7-9e18-8c29363c7f00",
+        "dependsOn": [
+          "node-c0bf0e83-2562-4ae0-9188-980491f330cb"
+        ]
+      },
+      {
+        "id": "58b27e9b-af90-44dc-b274-408e4eac3c92",
+        "title": "",
+        "owner": "isaias gonzalez",
+        "due": "",
+        "done": false,
+        "result": "",
+        "description": "",
+        "nodeId": "",
+        "dependsOn": []
+      },
+      {
+        "id": "52a175db-5c6e-40eb-b473-205ff72fa66f",
+        "title": "",
+        "owner": "Mio B",
+        "due": "",
+        "done": false,
+        "result": "",
+        "description": "",
+        "nodeId": "",
+        "dependsOn": []
+      },
+      {
+        "id": "12f30b97-9fec-4461-a932-dc01c65adc25",
+        "title": "",
+        "owner": "Daniel Parma (2)",
+        "due": "",
+        "done": false,
+        "result": "",
+        "description": "",
+        "nodeId": "",
+        "dependsOn": []
+      }
+    ],
     "dailyNotes": [
       {
         "date": "2026-11-17",
@@ -199,6 +257,10 @@
       {
         "name": "Daniel Parma (2)",
         "role": "output/result tester/checker"
+      },
+      {
+        "name": "Mio B",
+        "role": "Finding assets"
       }
     ]
   },
