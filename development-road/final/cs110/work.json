@@ -91,11 +91,11 @@
     },
     "evidence": {},
     "dailyDraft": {
-      "meeting": "CS110-2026-11-17",
-      "worked": "I did story Board the project so that we choose the requirements that fit our project.",
-      "next": "I will give task to the team and start creating the actual game",
-      "blocker": "I need more time to work on the project",
-      "evidence": "https://github.com/jonathan0611p/Final"
+      "meeting": "CS110-2026-11-19",
+      "worked": "I started working on the unity project and getting the start screen up",
+      "next": "",
+      "blocker": "",
+      "evidence": ""
     },
     "requirements": [
       {
